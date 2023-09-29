@@ -67,8 +67,7 @@ table {
 }
 </style>
 <div class="columns">
-
-<div>
+<div class="column">
 
 | Rank     | Member         | Worked   |
 | -------- | -------------- | -------- |
@@ -79,8 +78,7 @@ table {
 | 5        | Mark - 2M0IIG  | 25       |
 
 </div>
-
-<div>
+<div class="column">
 
 | Rank     | Member         | Worked by |
 | -------- | -------------- | --------- |
@@ -91,7 +89,6 @@ table {
 | 5        | Eoin - M0NVK   | 17        |
 
 </div>
-
 </div>
 
 ---
