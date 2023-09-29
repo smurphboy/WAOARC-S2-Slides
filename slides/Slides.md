@@ -62,9 +62,6 @@ So we probably had over **100** members participating, which from a population o
 
  Vic - EI5IYB was the overall victor for members worked and being worked by the most members. Congratulations to him for not winning this non-contest ;-)
 <style scoped>
-table {
-  font-size: 13px;
-}
 .row {
   display: flex;
 }
@@ -124,7 +121,7 @@ For the counting stats nerds... we tracked a number of categories:
 ## QSOs made
 <style scoped>
 table {
-  font-size: 13px;
+  font-size: 14px;
 }
 </style>
 As a community, we logged **1028** QSOs in total. Bearing in mind a QSO has two parties, we probably have about **700** unique QSOs but I lack the SQL to calculate the actual number simply. Contact me if you fancy the challenge!
