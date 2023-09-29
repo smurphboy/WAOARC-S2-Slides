@@ -1,3 +1,5 @@
+[![Deploy marp site to Pages](https://github.com/smurphboy/WAOARC-S2-Slides/actions/workflows/marp-pages.yml/badge.svg)](https://github.com/smurphboy/WAOARC-S2-Slides/actions/workflows/marp-pages.yml)
+
 # Marp Slides Template
 
 [Use this template!](https://github.com/codebytes/marp-slides-template/generate)
