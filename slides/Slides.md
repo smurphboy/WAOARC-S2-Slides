@@ -85,6 +85,7 @@ So we probably had over **100** members participating, which from a population o
 | 5        | Eoin - M0NVK   | 17        |
 
 </div>
+</div>
 
 ---
 
