@@ -61,8 +61,13 @@ So we probably had over **100** members participating, which from a population o
 # Members Worked and being Worked by Members
 
  Vic - EI5IYB was the overall victor for members worked and being worked by the most members. Congratulations to him for not winning this non-contest ;-)
-
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 <div class="columns">
+
 <div>
 
 | Rank     | Member         | Worked   |
@@ -74,6 +79,7 @@ So we probably had over **100** members participating, which from a population o
 | 5        | Mark - 2M0IIG  | 25       |
 
 </div>
+
 <div>
 
 | Rank     | Member         | Worked by |
@@ -85,6 +91,7 @@ So we probably had over **100** members participating, which from a population o
 | 5        | Eoin - M0NVK   | 17        |
 
 </div>
+
 </div>
 
 ---
@@ -110,7 +117,11 @@ For the counting stats nerds... we tracked a number of categories:
 ---
 
 ## QSOs made
-
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 As a community, we logged **1028** QSOs in total. Bearing in mind a QSO has two parties, we probably have about **700** unique QSOs but I lack the SQL to calculate the actual number simply. Contact me if you fancy the challenge!
 
 [QSOs by Member](https://waoarc.oarc.uk/waoarc/usertable)
