@@ -112,7 +112,7 @@ For the counting stats nerds... we tracked a number of categories:
 
 ## QSOs made
 
-<div class="column">
+<div class="columns">
 <div>
 As a community, we logged **1028** QSOs in total. Bearing in mind a QSO has two parties, we probably have about **700** unique QSOs but I lack the SQL to calculate the actual number simply. Contact me if you fancy the challenge!
 </div>
