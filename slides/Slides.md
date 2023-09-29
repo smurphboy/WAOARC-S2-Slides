@@ -8,13 +8,16 @@ transition: pull
 ---
 
 # Worked All OARC S2
+
 ## Retrospective
+
 ![90% bg right](https://www.oarc.uk/wp-content/uploads/2022/12/calls-3-768x553.png)
 
 ---
 
 <!-- paginate: true -->
 <!-- This is what we will cover, but its not an agenda as such -->
+
 # What are we going to cover?
 
 - What was Worked All OARC?
@@ -102,15 +105,16 @@ So we probably had over **100** members participating, which from a population o
 
 For the counting stats nerds... we tracked a number of categories:
 
-* QSOs made
-* DXCC / ITUZ / CQZ contacted
-* Bands and Modes used
-* SOTA and POTA activations
-* Gridsquares worked and activated
+- QSOs made
+- DXCC / ITUZ / CQZ contacted
+- Bands and Modes used
+- SOTA and POTA activations
+- Gridsquares worked and activated
 
 ---
 
 ## QSOs made
+
 <style scoped>
 table {
   font-size: 14px;
@@ -132,7 +136,7 @@ As a community, we logged **1028** QSOs in total. Bearing in mind a QSO has two 
 
 # Thanks for your time
 
-This presentation is available  from https://smurphboy.github.io/WAOARC-S2-Slides/
+This presentation is available from https://smurphboy.github.io/WAOARC-S2-Slides/
 
 <i class="fa-brands fa-twitter"></i> Twitter: [@smurphboy](https://twitter.com/smurphboy)
 <i class="fa-brands fa-mastodon"></i> Mastodon: [@M0SMU](https://mastodon.radio/@M0SMU)
