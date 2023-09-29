@@ -1,29 +1,33 @@
 ---
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+footer: 'https://oarc.uk'
 ---
 
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# Worked All OARC S2
+## Retrospective
+![bg right](https://www.oarc.uk/wp-content/uploads/2022/12/calls-3-768x553.png)
 
 ---
 
 <!-- Speaker Notes -->
-## Slide 1
+## Introduction
 
-- Item 1
-- Item 2
-- Item 3
+- What was Worked All OARC?
+- How did we do as a community?
+- How did you do as a participant?
+- What did we learn?
+- Next Season
 <!-- Can have multiple on a slide -->
 
 ---
 
-## Slide 2
+# **WAOARC in a nutshell**
+We all came together again, over the summer, to see how many fellow community members we could work. The idea was get more of us on the air and communicating. Today, I’d like to review what we did, identify what we can improve and generally discuss it.
 <!-- Can also do a multiline
 comment that will show in notes -->
 
-![Image](https://picsum.photos/800/600)
+![Image](img/map1.png)
 
 ---
 
