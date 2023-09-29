@@ -4,7 +4,7 @@ theme: custom-default
 _class: lead
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 footer: 'Simon Murphy - M0SMU member of [OARC](https://oarc.uk)'
-transition: slide
+transition: pull
 ---
 
 # Worked All OARC S2
