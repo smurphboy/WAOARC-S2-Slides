@@ -65,8 +65,16 @@ So we probably had over **100** members participating, which from a population o
 table {
   font-size: 13px;
 }
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
 </style>
-<div class="columns">
+
+<div class="row">
 <div class="column">
 
 | Rank     | Member         | Worked   |
