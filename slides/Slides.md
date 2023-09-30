@@ -117,7 +117,7 @@ For the counting stats nerds... we tracked a number of categories:
 
 <style scoped>
 table {
-  font-size: 14px;
+  font-size: 16px;
 }
 </style>
 As a community, we logged **1028** QSOs in total. Bearing in mind a QSO has two parties, we probably have about **700** unique QSOs but I lack the SQL to calculate the actual number simply. Contact me if you fancy the challenge!
@@ -130,10 +130,66 @@ As a community, we logged **1028** QSOs in total. Bearing in mind a QSO has two 
 | 2        | Martin - G6FJI | 108       |
 | 3        | Gavin - G5HOW  | 99        |
 | 4        | Dennis - G5NLD | 88        |
-| 5        | Roger - G6NW   | 74        |
+| 5        | Roger - G6NWF  | 74        |
 
 ---
 
+# DXCC / ITUZ / CQZ Contacted
+<style scoped>
+table {
+  font-size: 16px;
+}
+</style>
+As a community, we logged **16** unique DXCC, **10** CQZ and **11** ITU Zones across all callsigns.
+
+[DXCC by Member](https://waoarc.oarc.uk/waoarc/dxcctable)
+
+| Rank     | Member         | DXCC      |
+| -------- | -------------- | --------- |
+| 1        | Vic - EI5IYB   | 10        |
+| 2        | Eoin - M0NVK   | 8         |
+| 3        | Martin - G6FJI | 7         |
+| 4        | Roger - G6NWF  | 7         |
+| 5        | Gavin - G5HOW  | 6         |
+
+---
+
+# Bands and Modes
+<style scoped>
+table {
+  font-size: 16px;
+}
+</style>
+As a community, we logged **16** Bands and **25** Modes across all Callsigns.
+
+<div class="columns">
+<div>
+
+| Rank     | Member         | Bands    |
+| -------- | -------------- | -------- |
+| 1        | Martin - G6FJI | 9        |
+| 2        | Gavin - G5HOW  | 8        |
+| 3        | Vic - EI5IYB   | 8        |
+| 4        | Roger - G6NWF  | 7        |
+| 5        | Simon - EI3JDB | 7        |
+
+</div>
+<div>
+
+| Rank     | Member         | Modes     |
+| -------- | -------------- | --------- |
+| 1        | Vic - EI5IYB   | 20        |
+| 2        | Mark - 2M0IIG  | 13        |
+| 3        | Gavin - G5HOW  | 11        |
+| 4        | Martin - G6FJI | 11        |
+| 5        | Paul - M0TZO   | 9         |
+| 5        | Simon - EI3JDB | 9         |
+| 5        | Dennis - G5NLD | 9         |
+
+</div>
+</div>
+
+---
 # Thanks for your time
 
 This presentation is available from https://smurphboy.github.io/WAOARC-S2-Slides/
