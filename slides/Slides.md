@@ -226,6 +226,11 @@ As a community, we worked **39** Gridsquares and activated **27** Gridsquares ac
 
 [QSOs by Gridsquare](https://waoarc.oarc.uk/waoarc/workedmap)
 
+<style scoped>
+table {
+  font-size: 16px;
+}
+</style>
 <div class="columns">
 <div>
 
