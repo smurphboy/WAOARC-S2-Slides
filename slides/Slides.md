@@ -311,22 +311,5 @@ This presentation is available from https://smurphboy.github.io/WAOARC-S2-Slides
 
 ---
 
-# <!--fit--> Large Text
+# <!--fit--> Fin
 
----
-
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-# Mermaid
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
