@@ -64,7 +64,7 @@ So we probably had over **100** members participating, which from a population o
 
 # Members Worked and being Worked by Members
 
- Vic - EI5IYB was the overall victor for members worked and being worked by the most members. Congratulations to him for not winning this non-contest ;-)
+ **Vic - EI5IYB** was the overall victor for members worked and being worked by the most members. Congratulations to him for not winning this non-contest ;-)
 
 <div class="columns">
 <div>
@@ -154,6 +154,15 @@ As a community, we logged **16** unique DXCC, **10** CQZ and **11** ITU Zones ac
 
 ---
 
+![left 75%](img/dxcc.png)
+
+![bg right 75%](img/ituz.png)
+
+---
+
+![bg 40%](img/cqz.png)
+
+---
 # Bands and Modes
 <style scoped>
 table {
@@ -161,6 +170,8 @@ table {
 }
 </style>
 As a community, we logged **16** Bands and **25** Modes across all Callsigns.
+
+[QSOs by Bands and Modes](https://waoarc.oarc.uk/waoarc/bands)
 
 <div class="columns">
 <div>
@@ -185,6 +196,62 @@ As a community, we logged **16** Bands and **25** Modes across all Callsigns.
 | 5        | Paul - M0TZO   | 9         |
 | 5        | Simon - EI3JDB | 9         |
 | 5        | Dennis - G5NLD | 9         |
+
+</div>
+</div>
+
+---
+
+![left 75%](img/bandsandmodes.png)
+
+---
+
+# SOTA activations
+
+Mark - 2M0IIG organised a SOTA day during WAOARC S2 and as a result, as a community, activated **12** summits, across **5** regions, in **3** associations.
+
+![bg right 90%](img/sotamap.png)
+
+---
+
+# POTA Activations
+
+We had a single POTA activation during the event, **Nathan** working as **GM6NX** made **2** QSOs with **Simon - EI3JDB** and **Gavin - G5HOW**.
+
+---
+
+# Gridsquares Worked and Activated
+
+As a community, we worked **39** Gridsquares and activated **27** Gridsquares across all callsigns.
+
+[QSOs by Gridsquare](https://waoarc.oarc.uk/waoarc/workedmap)
+
+<div class="columns">
+<div>
+
+| Rank     | Member         | Grids Worked |
+| -------- | -------------- | ------------ |
+| 1        | Vic - EI5IYB   | 27           |
+| 2        | Roger - G6NWF  | 18           |
+| 2        | Martin - G6FJI | 18           |
+| 4        | Gavin - G5HOW  | 17           |
+| 4        | Eoin - M0NVK   | 17           |
+
+</div>
+<div>
+
+| Rank     | Member            | Activated |
+| -------- | ----------------- | --------- |
+| 1        | Paul - M0TZO      | 3         |
+| 1        | Gavin - G5HOW     | 3         |
+| 2        | Vic - EI5IYB      | 2         |
+| 2        | Nathan - 2M0OCC   | 2         |
+| 2        | Martin - G6FJI    | 2         |
+| 2        | Dennis - G5NLD    | 2         |
+| 2        | Charlotte - G8CAP | 2         |
+| 2        | Rich - M7GET      | 2         |
+| 2        | Michael GM5AUG    | 2         |
+
 
 </div>
 </div>
