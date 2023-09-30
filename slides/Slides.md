@@ -262,6 +262,44 @@ table {
 </div>
 
 ---
+
+# <!--fit--> Enough counting stats
+
+---
+
+# Rarity
+
+## How do you measure it? We had a go...
+Across your QSOs, we look at the rarity of the callsign worked, band, mode, grid activated and grid worked. For each of those categories you get a score. 
+
+If your QSO is the only person to work the element then you score 24 points, if two QSOs worked it then you score 12 points, and so on down to 1 point if 24 QSOs worked it. The idea is to reward rarity and encourage people to try modes / bands and get out of the house and work squares...
+
+---
+
+![bg 65%](img/rarity.png)
+
+---
+
+# Rarity - some comments
+
+So overall **Vic - EI5IYB** appears to win, but his 837 points are spread over 180 QSOs, at an average of **4.65** points per QSO. However, **Roger - G6NWF** scored his 740 points from 74 QSOs at a rate of **10** points per QSO.
+<style scoped>
+table {
+  font-size: 20px;
+}
+</style>
+[Rarity - Score per QSO](https://waoarc.oarc.uk/waoarc/scoreboard)
+
+| Rank     | Member            | Per QSO   |
+| -------- | ----------------- | --------- |
+| 1        | Roger - G6NWF     | 10        |
+| 2        | Eoin - M0NVK      | 7.54      |
+| 3        | Rich - M7GET      | 6.46      |
+| 4        | Vic - EI5IYB      | 4.65      |
+| 5        | Paul - M0TZO      | 4.02      |
+
+
+---
 # Thanks for your time
 
 This presentation is available from https://smurphboy.github.io/WAOARC-S2-Slides/
